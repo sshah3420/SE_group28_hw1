@@ -3,6 +3,7 @@ a simple calculator application
 
 <!-- SHIELDS -->
 
+
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
@@ -14,5 +15,5 @@ a simple calculator application
 
 
 <!-- links -->
-[issues-shield]:https://img.shields.io/badge/?label=issues&style=flat-square&logo=appveyor
+[issues-shield]:https://img.shields.io/badge//github/issues/wutever0017/SE_group28_hw1
 [issues-url]:https://github.com/wutever0017/SE_group28_hw1/issues
