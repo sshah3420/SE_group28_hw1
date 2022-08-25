@@ -15,5 +15,5 @@ https://img.shields.io/badge//github/issues/wutever0017/SE_group28_hw1
 
 
 <!-- links -->
-[issues-shield]:https://img.shields.io/badge//github/issues/wutever0017/SE_group28_hw1
+[issues-shield]:https://img.shields.io/badge/github/issues/wutever0017/SE_group28_hw1
 [issues-url]:https://github.com/wutever0017/SE_group28_hw1/issues
