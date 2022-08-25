@@ -3,11 +3,8 @@ a simple calculator application
 
 <!-- SHIELDS -->
 
-https://img.shields.io/badge/github/issues/wutever0017/SE_group28_hw1
-
-[![Issues][issues-shield]][issues-url]
-
-[![MIT License][license-shield]][license-url]
+<a href="https://github.com/wutever0017/SE_group28_hw1/issues>
+        <img src="https://img.shields.io/github/issues/wutever0017/SE_group28_hw1" /></a>
 
 ## Requirements
 
@@ -16,6 +13,3 @@ https://img.shields.io/badge/github/issues/wutever0017/SE_group28_hw1
 ## Executing program
 
 
-<!-- links -->
-[issues-shield]: https://img.shields.io/badge/github/issues/wutever0017/SE_group28_hw1?style=for-the-badge
-[issues-url]: https://github.com/wutever0017/SE_group28_hw1/issues
