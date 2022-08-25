@@ -3,7 +3,7 @@ a simple calculator application
 
 <!-- SHIELDS -->
 
-
+https://img.shields.io/badge//github/issues/wutever0017/SE_group28_hw1
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
