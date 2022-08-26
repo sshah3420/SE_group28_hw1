@@ -1,40 +1,32 @@
-# Software Engineering HW1
-
+# Simple Effective Calculator 
+<!-- Head -->
+<div align = "center">
+  <a> <img src="https://user-images.githubusercontent.com/54409683/186730448-f2ebc21a-6107-4fa6-932a-1a5d9030daa2.png" width="276" height="170" /></a>
+  <h3 alighn = "center"><b><i>TIME IS MONEY !! </i></b></h3>
+  <p>Our software helps you speed up your everyday tasks, gain productivity, provide accurate results and help you save time.</p> 
+</div>
 <!-- SHIELDS -->
-<p>
+
 <a href="https://github.com/wutever0017/SE_group28_hw1/issues">
         <img src="https://img.shields.io/github/issues/wutever0017/SE_group28_hw1" /></a>
-        
-<a> <img src="https://img.shields.io/github/license/wutever0017/SE_group28_hw1" /></a>
-
-[![Python application](https://github.com/wutever0017/SE_group28_hw1/actions/workflows/python-app.yml/badge.svg)](https://github.com/wutever0017/SE_group28_hw1/actions/workflows/python-app.yml)
-
-</p>
-
-a simple calculator application
+<a href="https://github.com/wutever0017/SE_group28_hw1/blob/main/LICENSE"> 
+        <img src="https://img.shields.io/github/license/wutever0017/SE_group28_hw1" /></a>
+<a href="https://github.com/wutever0017/SE_group28_hw1/actions/workflows/python-app.yml">
+        <img src="https://github.com/wutever0017/SE_group28_hw1/actions/workflows/python-app.yml/badge.svg"/></a>       
 
 ## Requirements
-
-### [requirements.txt](https://github.com/wutever0017/SE_group28_hw1/blob/main/requirements.txt)
-
-## Installation
-
-### [INSTALL.md](https://github.com/wutever0017/SE_group28_hw1/blob/main/INSTALL.md)
+<a href="https://github.com/wutever0017/SE_group28_hw1/blob/main/requirements.txt"><h4>REQUIREMENTS.txt</a> 
+## Install
+<a href="https://github.com/wutever0017/SE_group28_hw1/blob/main/INSTALL.md"><h4>INSTALL.txt</a> 
 
 ## Executing program
-
-```python
+```powershell
 python calculator.py
 ```
+Enter the two input numbers 
+<br>Enter the number coresponding to the appropriate operation. 
+<p align="right">(<a href="https://github.com/wutever0017/SE_group28_hw1/blob/main/README.md">back to top</a>)</p>
 
-after executing program
-
-enter first number, second number, and number representing operation type
-
-the program will show the result of the operation
-
-
-## Contributing
-
-### [CONTRIBUTING.md](https://github.com/wutever0017/SE_group28_hw1/blob/main/CONTRIBUTING.md)
-### [CODE_OF_CONDUCT.md](https://github.com/wutever0017/SE_group28_hw1/blob/main/CODE_OF_CONDUCT.md)
+## License
+[MIT](https://github.com/wutever0017/SE_group28_hw1/blob/main/LICENSE)
+<p align="right">(<a href="https://github.com/wutever0017/SE_group28_hw1/blob/main/README.md">back to top</a>)</p>
