@@ -17,6 +17,10 @@ a simple calculator application
 
 ### [requirements.txt](https://github.com/wutever0017/SE_group28_hw1/blob/main/requirements.txt)
 
+## Installation
+
+### [INSTALL.md](https://github.com/wutever0017/SE_group28_hw1/blob/main/INSTALL.md)
+
 ## Executing program
 
 ```python
@@ -32,4 +36,5 @@ the program will show the result of the operation
 
 ## Contributing
 
-### [Contributing.md](https://github.com/wutever0017/SE_group28_hw1/blob/main/CONTRIBUTING.md)
+### [CONTRIBUTING.md](https://github.com/wutever0017/SE_group28_hw1/blob/main/CONTRIBUTING.md)
+### [CODE_OF_CONDUCT.md](https://github.com/wutever0017/SE_group28_hw1/blob/main/CODE_OF_CONDUCT.md)
