@@ -2,7 +2,7 @@ This file includes all the files you need to run our code
 
 ## Installation 
 
-To get started we `git` to check out the code.
+To get started we need `git` to check out the code.
 
 Clone the repository using
 
