@@ -9,7 +9,7 @@ a simple calculator application
 
 
 <!-- [![Build Status - Travis](https://travis-ci.org/sshah3420/SE_group28_hw1.svg?branch=main)](https://travis-ci.org/sshah3420/SE_group28_hw1) -->
-[![Build Status - GitHub](https://github.com/sshah3420/SE_group28_hw1/workflows/python-app/badge.svg)](https://github.com/sshah3420/SE_group28_hw1/actions?query=workflow%3Apytesting)
+[![Build Status - GitHub](https://github.com/sshah3420/SE_group28_hw1/workflows/python-app/badge.svg)](https://github.com/sshah3420/SE_group28_hw1/actions?query=workflow%3Apython-app)
 <!-- [![Coverage Status](https://coveralls.io/repos/github/4OH4/pytesting/badge.svg?branch=master)](https://coveralls.io/github/4OH4/pytesting?branch=master) -->
 
 
