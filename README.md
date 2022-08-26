@@ -6,7 +6,7 @@ a simple calculator application
 <a href="https://github.com/wutever0017/SE_group28_hw1/issues">
         <img src="https://img.shields.io/github/issues/wutever0017/SE_group28_hw1" /></a>
 <a> <img src="https://img.shields.io/github/license/wutever0017/SE_group28_hw1" /></a>
-
+<a><img src = "https://github.com/sshah3420/SE_group28_hw1/actions/workflows/python-app.yml/badge.svg"></a>
 ## Executing program
 
 ```python
