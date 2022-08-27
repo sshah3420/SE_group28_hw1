@@ -12,12 +12,14 @@
 <a href="https://github.com/wutever0017/SE_group28_hw1/blob/main/LICENSE"> 
         <img src="https://img.shields.io/github/license/wutever0017/SE_group28_hw1" /></a>
 <a href="https://github.com/wutever0017/SE_group28_hw1/actions/workflows/python-app.yml">
-        <img src="https://github.com/wutever0017/SE_group28_hw1/actions/workflows/python-app.yml/badge.svg"/></a>       
+        <img src="https://github.com/wutever0017/SE_group28_hw1/actions/workflows/python-app.yml/badge.svg"/></a>     
+<a href="https://doi.org/10.5281/zenodo.7026735"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7026735.svg" alt="DOI"></a>
+
 
 ## Requirements
 <a href="https://github.com/wutever0017/SE_group28_hw1/blob/main/requirements.txt"><h4>REQUIREMENTS.txt</a> 
 ## Install
-<a href="https://github.com/wutever0017/SE_group28_hw1/blob/main/INSTALL.md"><h4>INSTALL.txt</a> 
+<a href="https://github.com/wutever0017/SE_group28_hw1/blob/main/INSTALL.md"><h4>INSTALL.md</a> 
 
 ## Executing program
 ```powershell
