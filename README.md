@@ -25,8 +25,6 @@
 ```powershell
 python calculator.py
 ```
-Enter the two input numbers 
-<br>Enter the number coresponding to the appropriate operation. 
 <p align="right">(<a href="https://github.com/wutever0017/SE_group28_hw1/blob/main/README.md">back to top</a>)</p>
 
 ## License
