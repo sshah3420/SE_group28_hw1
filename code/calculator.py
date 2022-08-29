@@ -1,4 +1,3 @@
-
 # a function to add two numbers and return their addition  
 def add(n1, n2) -> float:
     return n1 + n2
